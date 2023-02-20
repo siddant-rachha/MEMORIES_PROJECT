@@ -1,0 +1,2 @@
+*
+create model and import it in controller do perform various functions of mongoose

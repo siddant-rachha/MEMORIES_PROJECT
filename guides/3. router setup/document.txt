@@ -1,0 +1,3 @@
+*
+create router from express in routes folder 
+and setup in app.use() middleware and check in browser by sending response text

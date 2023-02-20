@@ -1,0 +1,11 @@
+* 
+initiate express
+setup bodyParser and cors
+
+*
+initialize mongodb, set network ips, set database read write access
+
+*
+create URL AND PORT
+connect mongodb using mongoose and then listen the app
+and run the basic server

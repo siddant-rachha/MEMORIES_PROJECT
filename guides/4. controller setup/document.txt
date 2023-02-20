@@ -1,0 +1,2 @@
+*
+create controllers and write functions and do named exports and connect controllers in router
